@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pandas
+trimesh
+tqdm
+python-fcl
+scipy
+cvxpy
